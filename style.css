@@ -5,3 +5,8 @@
         padding-left: 1rem!important;
     }
 }
+@media all (min-width: 336) {
+    .w-25 {
+        width: 100%!important;
+    }
+}

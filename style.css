@@ -1,0 +1,7 @@
+
+@media all and (max-width: 1400px) and (min-width: 336px) {
+    .px-5 {
+        padding-right: 1rem!important;
+        padding-left: 1rem!important;
+    }
+}

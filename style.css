@@ -5,8 +5,9 @@
         padding-left: 1rem!important;
     }
 }
-@media all (min-width: 336) {
+@media all and (max-width: 576px) and (min-width: 336) {
     .w-25 {
         width: 100%!important;
     }
+    
 }
